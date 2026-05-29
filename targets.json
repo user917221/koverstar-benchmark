@@ -1,0 +1,80 @@
+{
+  "$schema": "./targets.schema (informel)",
+  "description": "Set de cibles du benchmark Koverstar vs pointures worldwide. 'self:true' = nous. Catégories pour grouper l'analyse. Éditable : ajoute/retire des entrées, le script et le cron s'adaptent.",
+  "self": "koverstar",
+  "strategy": "mobile",
+  "targets": [
+    {
+      "id": "koverstar",
+      "name": "Koverstar",
+      "url": "https://maquette-koverstar-2.vercel.app",
+      "category": "us",
+      "self": true,
+      "note": "Notre maquette. Objectif : figurer parmi les pointures ci-dessous."
+    },
+    {
+      "id": "coverstyl",
+      "name": "Coverstyl",
+      "url": "https://www.coverstyl.com/",
+      "category": "covering-direct",
+      "priority": "haute",
+      "note": "Concurrent direct (film adhésif architectural). Statique → on doit gagner sur le craft de mouvement."
+    },
+    {
+      "id": "reform",
+      "name": "Reform",
+      "url": "https://www.reformcph.com/en",
+      "category": "cuisine-premium",
+      "note": "Benchmark catégorie cuisine premium. Hero CTA-first, collections signées designers."
+    },
+    {
+      "id": "devol",
+      "name": "deVOL Kitchens",
+      "url": "https://www.devolkitchens.com/",
+      "category": "cuisine-premium",
+      "note": "Le plus transposable. Double-visuel par card (logique avant/après), récit 'STEP INSIDE'."
+    },
+    {
+      "id": "pluck",
+      "name": "Pluck",
+      "url": "https://www.pluck.co.uk/",
+      "category": "cuisine-premium",
+      "note": "Hero carrousel plein écran, narratif par projet (lieu + intention)."
+    },
+    {
+      "id": "props",
+      "name": "Props Furniture",
+      "url": "https://props.studiolumio.com/",
+      "category": "studio-craft",
+      "note": "Studio Lumio, SOTD. Référence finition d'exécution : preloader 0→100%, lookbook, 404 animée."
+    },
+    {
+      "id": "format",
+      "name": "Format Furniture",
+      "url": "https://format.furniture/",
+      "category": "studio-craft",
+      "note": "GSAP confirmé, HM. Hero typo-centric, footer plein écran, 1 couleur d'accent."
+    },
+    {
+      "id": "sen-knife",
+      "name": "sen knife",
+      "url": "https://sen-knife.com/2.0/",
+      "category": "material-craft",
+      "note": "Scroll horizontal [01]-[07] pour gamme de finitions, parallax multi-couches sur la matière."
+    },
+    {
+      "id": "mercadier",
+      "name": "Mercadier",
+      "url": "https://www.mercadier.fr/",
+      "category": "material-direct",
+      "note": "Béton ciré FR. Nuancier matière exhaustif + vidéos démo du geste."
+    },
+    {
+      "id": "cartier-ww",
+      "name": "Cartier — Watches & Wonders",
+      "url": "https://www.cartier.com/en-fr/watchesandwonders",
+      "category": "luxe-bar",
+      "note": "Immersive Garden (Agency of the Year 2025). Barre haute scroll-storytelling luxe. Perf souvent basse (lourd) = montre le trade-off craft/perf."
+    }
+  ]
+}
