@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-08",
+  "ranAt": "2026-06-08T06:06:48.212Z",
+  "strategy": "mobile",
+  "keyed": false,
+  "results": [
+    {
+      "id": "koverstar",
+      "name": "Koverstar",
+      "url": "https://maquette-koverstar-2.vercel.app",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "coverstyl",
+      "name": "Coverstyl",
+      "url": "https://www.coverstyl.com/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "reform",
+      "name": "Reform",
+      "url": "https://www.reformcph.com/en",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "devol",
+      "name": "deVOL Kitchens",
+      "url": "https://www.devolkitchens.com/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "pluck",
+      "name": "Pluck",
+      "url": "https://www.pluck.co.uk/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "props",
+      "name": "Props Furniture",
+      "url": "https://props.studiolumio.com/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "format",
+      "name": "Format Furniture",
+      "url": "https://format.furniture/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "sen-knife",
+      "name": "sen knife",
+      "url": "https://sen-knife.com/2.0/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "mercadier",
+      "name": "Mercadier",
+      "url": "https://www.mercadier.fr/",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    },
+    {
+      "id": "cartier-ww",
+      "name": "Cartier — Watches & Wonders",
+      "url": "https://www.cartier.com/en-fr/watchesandwonders",
+      "status": "error",
+      "error": "429 Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for co"
+    }
+  ]
+}
